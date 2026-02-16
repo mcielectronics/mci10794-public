@@ -31,7 +31,7 @@ Dispone de 4 botones, 4 LEDs, 1 fotoresistencia, 1 potenciómetro, 1 zumbador y 
 - Cable Hembra-hembra (No se necesitan más de 5 para los siguientes ejemplos)
 
 ### Requerimientos de software
-- [Arduino IDE]()
+- [Arduino IDE](https://www.arduino.cc/en/software/)
 - Librería de la tarjeta (En caso de no usar una de las predeterminadas en Arduino IDE.)
 
 ### Cómo conectar Arduino Nano a la tarjeta
